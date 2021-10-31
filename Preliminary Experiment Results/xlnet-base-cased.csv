@@ -1,0 +1,133 @@
+ If projected  the data must be readable.  On a 10x10 projection screen  90% of viewers must be able to read Event / Activity data from a viewing distance of 30,Security,0.9397097229957581
+ If projected  the data must be understandable. On a 10x10 projection screen  90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100,Security,0.935532808303833
+The product shall ensure that it can only be accessed by authorized users.  The product will be able to distinguish between authorized and unauthorized users in all access attempts,Security,0.9380864500999451
+The product shall be intuitive and self-explanatory.  :  90% of new users shall be able to start the display of Events or Activities within 90 minutes of using the product.,Security,0.9355753064155579
+The system shall be used by realtors with no training.,Usability,0.9500988125801086
+The system shall be intuitive and self explanatory.,Usability,0.9460862874984741
+The product shall be easy for a realtor to learn.,Usability,0.955166757106781
+The product shall use symbols and words that are naturally understandable by the realtor community.,Security,0.9425129890441895
+The product shall be installed by an untrained realtor   without recourse to separately-printed instructions.,Security,0.9449259042739868
+90% of untrained realtors shall be able to install the product on their device without printed instructions,Security,0.9320651292800903
+Only registered realtors shall be able to access the system.,Usability,0.9386168122291565
+Every user of the system shall be authenticated and authorized.,Usability,0.9460693597793579
+The product shall prevent its data from incorrect data being introduced.,Usability,0.961289644241333
+The system shall be easy to use by the Program Administrators/Nursing Staff Members.,Security,0.9443488121032715
+All of the users shall be able to use the system after one day of training.,Usability,0.9416794180870056
+The system shall help the user avoid making mistakes while scheduling classes and clinicals for the nursing students.,Security,0.9382832050323486
+The number of mistakes noted by the students shall be decreased by 50% in the first year.,Usability,0.932880163192749
+The system shall be intuitive to the Program Administrators/Nursing Staff Members.,Security,0.9421319961547852
+2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.,Security,0.9364460706710815
+The system shall use symbols and words that are naturally understandable by the user community.,Usability,0.9437980651855469
+The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.,Security,0.9379527568817139
+Only authorized users shall have access to clinical site information.,Usability,0.9483968019485474
+Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details.,Security,0.9347897171974182
+Only authorized users shall have access to students’ personal information.,Usability,0.9478896856307983
+Dr Susan Poslusny and Dr Julie Donalek are the only people who shall have access to students’ personal information.,Security,0.9444242119789124
+Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.,Security,0.9371931552886963
+Fit Criterion: Dr Susan Poslusny and Karen Sysol are the only people who shall have access to the final class section scheduling for the system that interfaces with CampusConnect.,Security,0.9422882795333862
+The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.,Security,0.9401101469993591
+The system shall protect private information in accordance with the organization’s information policy.,Usability,0.9414909482002258
+The system shall be built such that it is as secure as possible from malicious interference.,Security,0.9397783279418945
+The system shall use the organization’s standard virus protection software to help monitor threats to itself.,Usability,0.9392867684364319
+The list of dispute cases that are displayed after a search is performed must be color coded for easy identification of dispute cases based upon the dispute case status.,Security,0.924044668674469
+100% of the cardmember and merchant services representatives shall use the Disputes application regularly after a 2-day training course.,Security,0.9413889646530151
+100% of cardmember services representatives shall be able to successfully create a dispute case on the first encounter after completing the training course.,Security,0.9344114065170288
+100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.,Security,0.9305561184883118
+The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests.,Security,0.9359527826309204
+Only users with Update access must be able to initiate dispute requests.,Usability,0.9456156492233276
+The Disputes application shall ensure that only authorized users are allowed to logon to the application.,Security,0.9437834024429321
+ All authorized users  once authenticated must be able to logon to the Disputes System,Security,0.9455121755599976
+The Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing user’s access level.  The report will be reviewed for auditing purposes.,Security,0.9363080859184265
+All additions of new users and modifications to user’s access shall be recorded on the User Report.,Security,0.9393706321716309
+ If a user account is revoked  it can only be re-instantiated by the System Administrator.,Security,0.9208061695098877
+Only the System Administrator shall be able to reset a revoked user logon account,Security,0.9378930926322937
+The Disputes application shall manipulate and view business data. Users will not have direct access to data files or databases.,Security,0.9334396719932556
+All updates to data files or database must be initiated from the Disputes System.,Security,0.9380052089691162
+The product shall be easy to use by Adjusters and Collision Estimators.  95% of Adjusters and Collision Estimators shall find the product easy to use.,Security,0.9407140612602234
+The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.,Security,0.9393544793128967
+Users shall feel satisfied using the product.  85% of all users will be satisfied with the product.,Security,0.9423776865005493
+The product shall be easy to learn by Adjusters and Collision Estimators.  The product shall be learned with two days onsite training,Security,0.9413375854492188
+The user shall easily locate instructions while using the product.  User help can be found within 90% of the system.,Security,0.9308928847312927
+Only adjusters can request recycled parts audit reports. No users without an adjuster role shall request recycled parts audits.,Security,0.9336925148963928
+Only adjusters with a supervisor role can update preferred repair facility ratings. Users without the supervisor role cannot access the repair facility ratings.,Security,0.9342191815376282
+Only collision estimators shall search for recycled parts.  Users without the collision estimator role shall not have access to the search for recycled parts.,Security,0.9365807771682739
+Only valid data shall be entered into the system.  No invalid data shall be entered into the system.,Security,0.9374138116836548
+One insurance company shall not be able to view another insurance companys claim data.,Usability,0.9416104555130005
+The product shall free of computer viruses.,Usability,0.9511726498603821
+The system shall prevent malicious attacks including denial of service.,Usability,0.9624045491218567
+The product shall make the users want to use it. 80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.,Security,0.9370914697647095
+The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.,Security,0.9321449398994446
+The product shall give users feedback when necessary. 80% of the users surveyed report that the product accurately confirms their actions.,Security,0.9424869418144226
+The product shall allow the user to select a chosen language from one of the target market countries.,Usability,0.9477502703666687
+The product shall allow for customization of start page and views preferences.,Usability,0.9610289931297302
+ An employee will be able to successfully use the product within a few minutes.  After informally navigating the product for less than 15 minutes  users shall be able to successfully setup meetings and reserve conference rooms.,Security,0.93949294090271
+The product shall use a standard navigation menu familiar to most web users.,Usability,0.9502099752426147
+The product shall allow for intuitive searching of available conference rooms.,Usability,0.9543527364730835
+The product shall conform to the Americans with Disabilities Act.,Usability,0.9582748413085938
+A new user must be able to be added to the system within 10 minutes.  90% of new users are able to log into the system within 10 minutes.,Security,0.9363671541213989
+Every registered user will have access to the product’s support site via the Internet.  70% of registered users shall find a solution to their problem within 5 minutes of using the support site.,Security,0.9381921291351318
+ The product shall be translated into foreign languages other than the target market countries’ languages in future releases.  For each emerging target market  it shall take no more than 5 days to configure the product for that market’s language.,Security,0.9344290494918823
+The product shall ensure that only company employees or external users with company-approved user IDs may have product access.  100% of all logons shall be by either company employees or external users with company-approved user IDs.,Security,0.9344757795333862
+Only managers are able to perform search queries for reservations by user.  100% of all search queries for reservations by user shall be from logons of only management logons.,Security,0.9350994825363159
+The product shall ensure that the database’s data corresponds to the data entered by the user.  Each conference room reservation in the system will contain the same information as was entered by the user.,Security,0.9366713166236877
+The product shall prevent the input of malicious data.  The product and/or adjacent hardware/software systems’ data shall remain 100% uncorrupted each time malicious data is input into the product.,Security,0.924691915512085
+The product shall have the ability to receive automatic software updates as new threats emerge.  100% of customers will be able to receive automatic software updates transmitted to the installed product.,Security,0.9364487528800964
+The product shall be able to display calendar dates and times according to the user’s locale.  90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.,Security,0.9421544671058655
+The System shall maintain consistent security.  Any changes in user passwords and/or permissions should take affect in all parts of the System.,Security,0.935417890548706
+The System shall granularly control access rights to all major subsystems.  It should be possible to assign access rights to all subsystems independently.,Security,0.9368784427642822
+The product should be able to be used by 90% of novice users on the Internet.,Usability,0.9495459794998169
+ Users should only have to navigate through a maximum of 4 pages  to create an account with the website.,Security,0.9281743168830872
+Users should be able to access their streaming movies in under 2 clicks after logging into the website.,Security,0.9374857544898987
+An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website.,Usability,0.9414749145507812
+An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system.,Security,0.9423783421516418
+The product shall retain the customer’s buying preferences and information.,Usability,0.9548348188400269
+The product shall be easy for customers with novice skills on the  Internet to purchase and watch streaming movies.  Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.,Security,0.9401318430900574
+The product shall use symbols and words that are naturally understandable by users familiar with websites,Usability,0.9531095027923584
+The website will use standard Internet conventions when interacting with the user.,Usability,0.9567925333976746
+ All credit card information will be secured on the server  and only accessible by authorized Izogn administrators.  Information will be encrypted in the database.,Security,0.9341142773628235
+The website will provide a help section with answers and solutions to common problems.,Usability,0.9476993083953857
+Only registered customers can purchase streaming movies.,Usability,0.9266211986541748
+ A customer can only stream a movie if they purchased it  and are within the 2 day viewing period.,Security,0.9398887157440186
+Only authorized personnel can access customer records in the database.,Usability,0.9418190121650696
+Only administrators can activate a pre-paid card.,Usability,0.9477283954620361
+Only authorized personnel can access sales information.,Usability,0.9494178295135498
+The website shall prevent its data from being corrupted when incorrect data is entered in.,Usability,0.94337397813797
+ The website shall protect itself from intentional abuse  and notify the administrator at all occurrences.,Usability,0.9486684799194336
+Data integrity scripts will be run on a weekly basis to verify the integrity of the database.,Security,0.9318036437034607
+ The website shall make its user aware of its information practices before collection data from them via a Privacy Policy  accessible on all pages of the website.,Security,0.9333687424659729
+The system shall notify customers of changes to its information policy.,Usability,0.9554943442344666
+The system shall reveal private information only in compliance with the organization’s information policy.,Security,0.9359138607978821
+ All customer information will be stored on a secure database  accessible only to authorized personnel.,Security,0.9437340497970581
+All credit card information will be encrypted in the database.,Usability,0.9454725384712219
+The streaming server will have anti-virus software to prevent infection of malicious viruses.,Usability,0.9450153708457947
+The product shall be intuitive and self-explanatory.  Nine out ten users shall be able to successfully complete a game with no training.,Security,0.9395137429237366
+ The product shall be available to players who understand English  Spanish and French.  The product shall allow the user to select the language upon accessing the product.,Security,0.938692569732666
+The product shall provide players no access to information that might reveal the identity of another player,Usability,0.9431458115577698
+The system shall be easy to use by callers and supervisors. Callers and supervisors must be able to accomplish any system task within 2 minutes.,Security,0.939357578754425
+The system shall be easy to learn by callers and supervisors. Callers and supervisors shall learn how to use the system within 10 minutes.,Security,0.9370403289794922
+The product shall ensure that only supervisors can advertise empty time slots.The product must ensure that supervisors are allowed to access advertise empty time slots.,Security,0.9360951781272888
+The product shall ensure that only supervisors can enter a caller’s schedule.The product must ensure that supervisors are allowed to access advertise empty time slots.,Security,0.9363916516304016
+The product shall ensure that only supervisors can view schedule of all callers.The product must ensure that supervisors are allowed to access advertise empty time slots.,Security,0.937320351600647
+The product shall provide Monitoring Services.The product shall be easy for System Administrators and DBAs to use after two weeks of usage.,Security,0.9348007440567017
+The product shall provide Error Tracking Services.The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time.,Security,0.9365801811218262
+The product shall provide Portals.The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators),Security,0.9389691352844238
+ The product shall have security.The product shall provide authentication  and authorization.,Security,0.9344698786735535
+The product shall information Security. The product shall enable privacy by encryption WS-Security and Integrity Checking.,Security,0.9345825910568237
+The product shall have audit capabilities.The product shall store messages for a minimum of one year for audit and transaction tracking purposes.,Security,0.9335367679595947
+The system must use a point and click interface. 100% of all selection and navigation functionality must be able to be activated/selected by either a mouse or a keyboard,Security,0.939471423625946
+The interface shall be easy to use. 90% of users should be able to successfully use the system to generate a report on their first use. The interface should adhere to IBM usability standards.,Security,0.939382016658783
+Rreports must be easy to generate. eports must be generated within one button click and exported within one button click (after selecting the report),Security,0.9354571104049683
+A user shall be able to use the system without instruction after a short amount of time. After one use a user should understand and remember 90% of the system usage and navigation.,Security,0.9375155568122864
+All CCR users shall receive training before the WCS system is deployed. One training session will be held for 100% of CCR users before system deployment (based on a CCR user being available),Security,0.9317484498023987
+The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.,Security,0.9334975481033325
+The system shall only be accessed by authorized Corporate Community Grants (CCR) employees. Users must be authenticated using their IBM intranet user name and password.,Security,0.9297760128974915
+The WCS system shall not allow automatic logins by any user. Cookies containing WCS login information about a user will not be stored on a user’s computer.,Security,0.9310836791992188
+Each team owner will need to use a username and password in order to be authenticated to reach the team owner’s page,Security,0.9297001361846924
+The Commissioner will be the only authorized user per league to adjust league settings.,Security,0.941215455532074
+	A new user shall be able to navigate through the league and team pages within 30 seconds of reaching the start-up page.,Security,0.9372689127922058
+ 	Users shall be able to reach the ‘add’  ‘drop’  and ‘trade player’ pages with one click from the team owner’s page.,Security,0.9279026985168457
+	Users shall be able to view at least 25 NFL player statistics and points on each page.,Security,0.9420807361602783
+The application shall ask the user to confirm dropping a player or trading a player before performing the action.,Security,0.9434710741043091
+ 	Only authorized user shall access the RFS system. ONLY users that exist in the UAS system  with the RFS system assigned to their role(s)  shall access the RFS system and use it.,Security,0.9308310151100159
+	User access should be limited to the permissions granted to their role(s) Each level in the PCG hierarchy will be assigned a role and users will be assigned to these roles. Access to functionality within RFS system is dependent on the privileges/permission assigned to the role..,Security,0.9260305166244507
+ 	The users should be able to easily use the system to successfully complete their budgets  within the stipulated time for completion. With a week of training prior to product implementation  98% of the users shall complete their budgets within the stipulated time.,Security,0.9341521859169006
