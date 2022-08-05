@@ -2,12 +2,12 @@
 Experiments of ZSL Pipeline to classify requirements. 
 
 ## Contents
-This repository contains the auxiliary materials used for conducting the study: Zero-Shot Learning for Requirements Classification: An Exploratory Study. The main content are:
+This repository contains the auxiliary materials used for conducting the study: Zero-Shot Learning for Requirements Classification: An Exploratory Study. The main contents are:
 
 1- The experiement results for all the three classifcation tasks: (1) FR/NFR: classification functional requirements vs non-
 functional requirements; (2) NFR: identification of NFR classes; (3) Security: classification of security vs non-security requirements.
 
-2- Colab Notebook for running/replicating the conducted experiments
+2- Colab Notebook for running/replicating the conducted experiments. The datasets are retrieved from the dataset contributors' repositories.
 
 
 ## Abstract
